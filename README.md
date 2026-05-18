@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mingzheng Cui
 
-<!--
-**Soap7366/Soap7366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at the University of Electronic Science and Technology of China (UESTC).
 
-Here are some ideas to get you started:
+My research interests include multimodal large language models, embodied intelligence, and AI agents. I am particularly interested in how multimodal models can support perception, reasoning, interaction, and decision-making in embodied environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Multimodal Large Language Models
+- Visual Chain-of-thought
+- Embodied Intelligence
+- AI Agents
+- Vision-Language Models
+
+
+## Contact
+
+- Email: Soap7366@gmail.com
+- GitHub: https://github.com/Soap7366
